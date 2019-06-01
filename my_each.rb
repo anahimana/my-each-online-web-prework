@@ -8,7 +8,6 @@ def my_each(arr)
     end
     arr
   else
-    puts "Sup"
   end
 end
 
