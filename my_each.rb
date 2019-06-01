@@ -1,5 +1,4 @@
 def my_each(arr)
-  # code here
   if block_given?
     i = 0
     while i < arr.length
